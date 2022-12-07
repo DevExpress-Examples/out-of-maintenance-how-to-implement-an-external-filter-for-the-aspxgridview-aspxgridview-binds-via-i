@@ -3,7 +3,7 @@ Imports System
 Imports System.Collections.Generic
 Imports System.Linq
 Imports DevExpress.Data.Filtering
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 
 
 
